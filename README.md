@@ -69,7 +69,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/dviejo/programacion-web-integracion-con-apis/details)
   * [Lectura](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/)
   
-### **Desarrollo de Aplicaciones Móviles**
+### *Desarrollo de Aplicaciones Móviles*
 
 * PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/phonegap/details)
