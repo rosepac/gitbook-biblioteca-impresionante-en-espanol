@@ -19,14 +19,14 @@ Repositorio de libros que merecen la pena, encontrados en GitBook y en Español.
 * [Fundamentos de Programación](#fundamentos-de-programación)
 * [Framework´s Web](#framework-s-web)
 * [JavaScript](#javascript)
-* [Metodologías Ágiles](#Metodologías-Ágiles)
+* [Metodologías Ágiles](#metodologías-ágiles)
 * [Otros Lenguajes de Programación](#otros-lenguajes-de-programación)
 * [Software Empresarial](#software-empresarial)
 * [Software Libre](#software-libre)
 
 ___
 
-## Bases de Datos
+## _Bases de Datos_
 ### Bases de Datos No Relacionales 
 
 * Comenzando con MongoDB
@@ -54,7 +54,6 @@ ___
   * [Lectura](https://josh1982.gitbooks.io/programacion-web-en-cliente/content/)
   
 ## Fundamentos del Desarrollo Web y Móvil
-
 ### Desarrollo Web
 
 * Buenas Prácticas Front End
