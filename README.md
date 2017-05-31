@@ -1,8 +1,8 @@
 # Gitbook - Biblioteca de Libros en Español  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<div><img align="right" src="https://raw.githubusercontent.com/DpdC/editores-online/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
+<div><img align="right" src="https://raw.githubusercontent.com/DpdC/gitbook-biblioteca-en-espanol/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
 <br>
-Repositorio de libros (36) que merecen la pena, encontrados en GitBook y en Español. 
+Repositorio de libros (36) que merecen la pena; encontrados en GitBook y en Español. 
 <br>
 <br>
 <br>
@@ -19,7 +19,7 @@ Repositorio de libros (36) que merecen la pena, encontrados en GitBook y en Espa
 * [Fundamentos de Programación](#fundamentos-de-programación)
 * [Framework´s Web](#framework-web)
 * [JavaScript](#javascript)
-* [Metodologías Ágiles](#metodologías-ágiles)
+* [Metodologías Ágiles](#metodologías-agile)
 * [Otros Lenguajes de Programación](#otros-lenguajes-de-programación)
 * [Software Empresarial](#software-empresarial)
 * [Software Libre](#software-libre)
@@ -27,14 +27,14 @@ Repositorio de libros (36) que merecen la pena, encontrados en GitBook y en Espa
 ___
 
 ## Bases de Datos
-### Bases de Datos No Relacionales 
+### No Relacionales 
 
 * Comenzando con MongoDB
   * [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
   * [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
 
 ## Entornos de Desarrollo
-
+### ___Gestión de Equipos___
 * Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes
   * [Introducción & Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
   * [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
@@ -54,11 +54,11 @@ ___
   * [Lectura](https://josh1982.gitbooks.io/programacion-web-en-cliente/content/)
   
 ## Fundamentos de Desarrollo Web y Móvil
-### Desarrollo Web
+### Android
 
-* Buenas Prácticas Front End
-  * [Introducción & Descarga](https://www.gitbook.com/book/redmint/buenas-practicas-front-end/details)
-  * [Lectura](https://redmint.gitbooks.io/buenas-practicas-front-end/content/)
+* Introducción al desarrollo de aplicaciones Android
+  * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/introduccion-a-android/details)
+  * [Lectura](https://ajgallego.gitbooks.io/introduccion-a-android/content/)
 
 ### Desarrollo de Aplicaciones Web
 
@@ -71,28 +71,28 @@ ___
   
 ### Desarrollo de Aplicaciones Móviles
 
-* Programación Hipermedia para Dispositivos Móviles
-  * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/programacion-hipermedia-para-dispositivos-moviles/details)
-  * [Lectura](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content/)
 * PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/phonegap/details)
   * [Lectura](https://ajgallego.gitbooks.io/phonegap/content/) 
+* Programación Hipermedia para Dispositivos Móviles
+  * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/programacion-hipermedia-para-dispositivos-moviles/details)
+  * [Lectura](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content/)
 * Tecnologías para el desarrollo de aplicacioens móviles.
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/tecnologias2/details)
   * [Lectura](https://mastermoviles.gitbooks.io/tecnologias2/content/)
- 
+  
 ### iOS
 
 * Interfaz de usuario básica en iOS - Universidad de Alicante
   * [Introducción & Descarga](https://mastermoviles.gitbooks.io/interfaz-de-usuario-basico-en-ios/content/)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details)
+
+### Técnicas de Desarrollo
+
+* Buenas Prácticas Front End
+  * [Introducción & Descarga](https://www.gitbook.com/book/redmint/buenas-practicas-front-end/details)
+  * [Lectura](https://redmint.gitbooks.io/buenas-practicas-front-end/content/)
   
-### Android
-
-* Introducción al desarrollo de aplicaciones Android
-  * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/introduccion-a-android/details)
-  * [Lectura](https://ajgallego.gitbooks.io/introduccion-a-android/content/)
-
   
 ## Fundamentos de Programación
 ### Bases de Programación 
@@ -123,6 +123,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/laravel-5/details)
   * [Lectura](https://ajgallego.gitbooks.io/laravel-5/content/)
 
+### Sencha 2
 * Sencha Touch 2.0
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/sencha-touch-2/details)
   * [Lectura](https://ajgallego.gitbooks.io/sencha-touch-2/content/)
@@ -134,7 +135,7 @@ ___
   * [Lectura](https://delc82.gitbooks.io/yii2littlehandbook/content/index.html)
 
 ## Javascript
-### Libros de Derechos Creative Commons u similares.
+### Libros de Manuales con Derechos Creative Commons u similares.
 
 * Eloquent Javascript - Introducción Moderna a la Programación.
   * [Introducción & Descarga](https://www.gitbook.com/book/faustinoloeza/eloquent-javascript/details)
@@ -155,7 +156,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/khru/typescript/details)
   * [Lectura](https://khru.gitbooks.io/typescript/content/)
 
-## Metodologías Ágiles
+## Metodologías AGILE
 ### Experiencias Ágiles
 * DevOps - Marco de Trabajo
   * [Introducción & Descarga](https://www.gitbook.com/book/nelsonmoreno/devops/details)
@@ -181,7 +182,7 @@ ___
   
 ### Go - Aprendiendo un nuevo lenguaje 
 
-* Go es un lenguaje de programación de código abierto que facilita y simplifica la construcción de software eficiente y fiable.
+* Go - Aprendiendo un lenguaje de programación de código abierto que facilita y simplifica la construcción de software eficiente y fiable.
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/go-es/details)
   * [Lectura](https://nachopacheco.gitbooks.io/go-es/content/)
 * Go - Construyendo Aplicaciones Web
@@ -198,15 +199,16 @@ ___
 
 ### ERP - Planificación de Recursos Empresariales
 
-* Instalación de Odoo sobre Linux.
-  * [Introducción & Descarga](https://www.gitbook.com/book/fadeldamenschreiner/odoo-libro-tecnico/details)
-  * [Lectura](https://fadeldamenschreiner.gitbooks.io/odoo-libro-tecnico/content/)
 * Avaloon. Usando Odoo.
   * [Introducción & Descarga](https://www.gitbook.com/book/rafaeltorrealba/avaloon-usando-odoo/details)
   * [Lectura](https://rafaeltorrealba.gitbooks.io/avaloon-usando-odoo/content/)
+* Instalación de Odoo sobre Linux.
+  * [Introducción & Descarga](https://www.gitbook.com/book/fadeldamenschreiner/odoo-libro-tecnico/details)
+  * [Lectura](https://fadeldamenschreiner.gitbooks.io/odoo-libro-tecnico/content/)
+
 ## Software Libre
 
-* Migraficón a Sistemas Libres
+* Migración de las Administraciones Públicas a los Sistemas Libres
   * [Introducción & Descarga](https://www.gitbook.com/book/ccarabobolibre/acm/details)
   * [Lectura](https://ccarabobolibre.gitbooks.io/acm/content/)
 
