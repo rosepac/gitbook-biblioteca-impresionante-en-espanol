@@ -27,14 +27,14 @@ Repositorio de libros (36) que merecen la pena; encontrados en GitBook y en Espa
 ___
 
 ## Bases de Datos
-### No Relacionales 
+### *No Relacionales* 
 
 * Comenzando con MongoDB
   * [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
   * [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
 
 ## Entornos de Desarrollo
-### **Gestión de Equipos**
+### *Gestión de Equipos*
 * Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes
   * [Introducción & Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
   * [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
@@ -43,7 +43,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
   * [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
 
-### **Prototipado Web**
+### *Prototipado Web*
 
 * Prototipado de Aplicaciones Web (mean.js)
   * [Introducción & Descarga](https://www.gitbook.com/book/newrol/mean-webproto/details)
@@ -54,13 +54,13 @@ ___
   * [Lectura](https://josh1982.gitbooks.io/programacion-web-en-cliente/content/)
   
 ## Fundamentos de Desarrollo Web y Móvil
-### **Android**
+### *Android*
 
 * Introducción al desarrollo de aplicaciones Android
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/introduccion-a-android/details)
   * [Lectura](https://ajgallego.gitbooks.io/introduccion-a-android/content/)
 
-### **Desarrollo de Aplicaciones Web**
+### *Desarrollo de Aplicaciones Web*
 
 * Desarrollo de Aplicaciones Web - **Guía Completa**
   * [Introducción & Descarga](https://www.gitbook.com/book/juanda/webapps/details)
@@ -81,13 +81,13 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/tecnologias2/details)
   * [Lectura](https://mastermoviles.gitbooks.io/tecnologias2/content/)
   
-### iOS
+### *iOS*
 
 * Interfaz de usuario básica en iOS - Universidad de Alicante
   * [Introducción & Descarga](https://mastermoviles.gitbooks.io/interfaz-de-usuario-basico-en-ios/content/)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details)
 
-### Técnicas de Desarrollo
+### *Técnicas de Desarrollo*
 
 * Buenas Prácticas Front End
   * [Introducción & Descarga](https://www.gitbook.com/book/redmint/buenas-practicas-front-end/details)
@@ -95,7 +95,7 @@ ___
   
   
 ## Fundamentos de Programación
-### Bases de Programación 
+### *Bases de Programación* 
 
 * Fundamentos de la Programación: Proyecto de actualización curricular de la Universidad de los Andes. 
   * [Introducción & Descarga](https://www.gitbook.com/book/universidad-de-los-andes/fundamentos-de-programacion/details)
@@ -105,37 +105,37 @@ ___
   * [Lectura](https://graion.gitbooks.io/fundamentos-de-programacion-orientada-objetos/content/)
   
 ## Framework Web 
-### Bootstrap 3
+### *Bootstrap 3*
 
 * Manual de Introducción al **framework** Bootstrap 3.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/bootstrap-3/details)
   * [Lectura](https://ajgallego.gitbooks.io/bootstrap-3/content/)
 
-### Ionic
+### *Ionic*
 
 * Manual de Introducción al *framework* Ionic.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/ionic/details)
   * [Lectura](https://ajgallego.gitbooks.io/ionic/content/)
   
-### Laravel 5
+### *Laravel 5*
 
 * Extensa introducción al *framework* de desarrollo Web Laravel.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/laravel-5/details)
   * [Lectura](https://ajgallego.gitbooks.io/laravel-5/content/)
 
-### Sencha 2
+### *Sencha 2*
 * Sencha Touch 2.0
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/sencha-touch-2/details)
   * [Lectura](https://ajgallego.gitbooks.io/sencha-touch-2/content/)
 
-### Yii2
+### *Yii2*
 
 * Introducción YII2 - *Framework PHP*
   * [Introducción & Descarga](https://www.gitbook.com/book/delc82/yii2littlehandbook/details)
   * [Lectura](https://delc82.gitbooks.io/yii2littlehandbook/content/index.html)
 
 ## Javascript
-### Libros de Manuales con Derechos Creative Commons u similares.
+### *Libros de Manuales con Derechos Creative Commons u similares.*
 
 * Eloquent Javascript - Introducción Moderna a la Programación.
   * [Introducción & Descarga](https://www.gitbook.com/book/faustinoloeza/eloquent-javascript/details)
@@ -144,20 +144,20 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/jorger/javascript-basico/details)
   * [Lectura](https://jorger.gitbooks.io/javascript-basico/content/)
   
-### Libros sobre librerías basadas en Javascript.
+### *Libros sobre librerías basadas en Javascript.*
 
 * Información adquirida de diferentes fuentes (libros, tutoriales, experiencia personal) sobre Angular 2.
   * [Introducción & Descarga](https://www.gitbook.com/book/rldona/angular-2-book/details)
   * [Lectura](https://rldona.gitbooks.io/angular-2-book/content/)
   
-### TypeScript
+### *TypeScript*
 
 * Introducción a Typescript.
   * [Introducción & Descarga](https://www.gitbook.com/book/khru/typescript/details)
   * [Lectura](https://khru.gitbooks.io/typescript/content/)
 
 ## Metodologías AGILE
-### Experiencias Ágiles
+### *Experiencias Ágiles*
 * DevOps - Marco de Trabajo
   * [Introducción & Descarga](https://www.gitbook.com/book/nelsonmoreno/devops/details)
   * [Lectura](https://nelsonmoreno.gitbooks.io/devops/content/)
@@ -175,12 +175,12 @@ ___
   * [Lectura](https://nicopaez.gitbooks.io/libroagileaoc2015/content/)
 
 ## Otros Lenguajes de Programación
-### C++
+### *C++*
 * Introducción a C++
   * [Introducción & Descarga](https://www.gitbook.com/book/ismtabo/cpp_tutorial/details)
   * [Lectura](https://ismtabo.gitbooks.io/cpp_tutorial/content/)
   
-### Go - Aprendiendo un nuevo lenguaje 
+### *Go - Aprendiendo un nuevo lenguaje* 
 
 * Go - Aprendiendo un lenguaje de programación de código abierto que facilita y simplifica la construcción de software eficiente y fiable.
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/go-es/details)
@@ -189,7 +189,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/cawg/details)
   * [Lectura](https://nachopacheco.gitbooks.io/cawg/content/)
 
-### JAVA
+### *JAVA*
 
 * Introducción a Java y Android Estudio - Universidad de Alicante
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
@@ -197,7 +197,7 @@ ___
 
 ## Software Empresarial
 
-### ERP - Planificación de Recursos Empresariales
+### *ERP - Planificación de Recursos Empresariales*
 
 * Avaloon. Usando Odoo.
   * [Introducción & Descarga](https://www.gitbook.com/book/rafaeltorrealba/avaloon-usando-odoo/details)
