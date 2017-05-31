@@ -33,8 +33,8 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
   * [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
 
-## Entornos de Desarrollo
-### ___Gestión de Equipos___
+## **Entornos de Desarrollo**
+### Gestión de Equipos
 * Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes
   * [Introducción & Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
   * [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
