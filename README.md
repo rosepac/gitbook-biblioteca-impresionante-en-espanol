@@ -2,7 +2,7 @@
 
 <div><img align="right" src="https://raw.githubusercontent.com/DpdC/editores-online/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
 <br>
-Repositorio de libros que merecen la pena, encontrados en GitBook y en Español. 
+Repositorio de libros (36) que merecen la pena, encontrados en GitBook y en Español. 
 <br>
 <br>
 <br>
@@ -17,7 +17,7 @@ Repositorio de libros que merecen la pena, encontrados en GitBook y en Español.
 * [Entornos de Desarrollo](#entornos-de-desarrollo)
 * [Fundamentos del Desarrollo Web](#fundamentos-de-desarrollo-web-y-móvil)
 * [Fundamentos de Programación](#fundamentos-de-programación)
-* [Framework´s Web](#framework-s-web)
+* [Framework´s Web](#framework-web)
 * [JavaScript](#javascript)
 * [Metodologías Ágiles](#metodologías-ágiles)
 * [Otros Lenguajes de Programación](#otros-lenguajes-de-programación)
@@ -26,7 +26,7 @@ Repositorio de libros que merecen la pena, encontrados en GitBook y en Español.
 
 ___
 
-## __Bases de Datos__
+## Bases de Datos
 ### Bases de Datos No Relacionales 
 
 * Comenzando con MongoDB
@@ -53,7 +53,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/josh1982/programacion-web-en-cliente/details)
   * [Lectura](https://josh1982.gitbooks.io/programacion-web-en-cliente/content/)
   
-## Fundamentos del Desarrollo Web y Móvil
+## Fundamentos de Desarrollo Web y Móvil
 ### Desarrollo Web
 
 * Buenas Prácticas Front End
@@ -104,7 +104,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/graion/fundamentos-de-programacion-orientada-objetos/details)
   * [Lectura](https://graion.gitbooks.io/fundamentos-de-programacion-orientada-objetos/content/)
   
-## Framework´s Web 
+## Framework Web 
 ### Bootstrap 3
 
 * Manual de Introducción al **framework** Bootstrap 3.
