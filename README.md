@@ -33,8 +33,8 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
   * [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
 
-## **Entornos de Desarrollo**
-### Gestión de Equipos
+## Entornos de Desarrollo
+### **Gestión de Equipos**
 * Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes
   * [Introducción & Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
   * [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
@@ -43,7 +43,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
   * [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
 
-### Prototipado Web
+### **Prototipado Web**
 
 * Prototipado de Aplicaciones Web (mean.js)
   * [Introducción & Descarga](https://www.gitbook.com/book/newrol/mean-webproto/details)
@@ -54,13 +54,13 @@ ___
   * [Lectura](https://josh1982.gitbooks.io/programacion-web-en-cliente/content/)
   
 ## Fundamentos de Desarrollo Web y Móvil
-### Android
+### **Android**
 
 * Introducción al desarrollo de aplicaciones Android
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/introduccion-a-android/details)
   * [Lectura](https://ajgallego.gitbooks.io/introduccion-a-android/content/)
 
-### Desarrollo de Aplicaciones Web
+### **Desarrollo de Aplicaciones Web**
 
 * Desarrollo de Aplicaciones Web - **Guía Completa**
   * [Introducción & Descarga](https://www.gitbook.com/book/juanda/webapps/details)
@@ -69,7 +69,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/dviejo/programacion-web-integracion-con-apis/details)
   * [Lectura](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/)
   
-### Desarrollo de Aplicaciones Móviles
+### **Desarrollo de Aplicaciones Móviles**
 
 * PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/phonegap/details)
