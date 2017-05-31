@@ -1,4 +1,4 @@
-# Gitbook - Recopilatorio de Libros en Español  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Gitbook - Biblioteca de Libros en Español  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div><img align="right" src="https://raw.githubusercontent.com/DpdC/editores-online/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
 <br>
@@ -17,9 +17,9 @@ Repositorio de libros que merecen la pena, encontrados en GitBook y en Español.
 * [Entornos de Desarrollo](#entornos-de-desarrollo)
 * [Fundamentos del Desarrollo Web](#fundamentos-de-desarrollo-web-y-móvil)
 * [Fundamentos de Programación](#fundamentos-de-programación)
-* [Framework´s Web](#framework´s-web)
+* [Framework´s Web](#framework-s-web)
 * [JavaScript](#javascript)
-* [Metodologías Ágiles](#metodologías-ágiles)
+* [Metodologías Ágiles](#Metodologías-Ágiles)
 * [Otros Lenguajes de Programación](#otros-lenguajes-de-programación)
 * [Software Empresarial](#software-empresarial)
 * [Software Libre](#software-libre)
@@ -114,13 +114,13 @@ ___
 
 ### Ionic
 
-* Manual de Introducción al **framework** Ionic.
+* Manual de Introducción al *framework* Ionic.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/ionic/details)
   * [Lectura](https://ajgallego.gitbooks.io/ionic/content/)
   
 ### Laravel 5
 
-* Extensa introducción al **framework** de desarrollo Web Laravel.
+* Extensa introducción al *framework* de desarrollo Web Laravel.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/laravel-5/details)
   * [Lectura](https://ajgallego.gitbooks.io/laravel-5/content/)
 
@@ -130,7 +130,7 @@ ___
 
 ### Yii2
 
-* Introducción YII2 - **Framework PHP*
+* Introducción YII2 - *Framework PHP*
   * [Introducción & Descarga](https://www.gitbook.com/book/delc82/yii2littlehandbook/details)
   * [Lectura](https://delc82.gitbooks.io/yii2littlehandbook/content/index.html)
 
