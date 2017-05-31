@@ -15,7 +15,7 @@ Repositorio de libros (36) que merecen la pena; encontrados en GitBook y en Espa
 
 * [Bases de Datos](#bases-de-datos)
 * [Entornos de Desarrollo](#entornos-de-desarrollo)
-* [Fundamentos del Desarrollo Web](#fundamentos-de-desarrollo-web-y-móvil)
+* [Fundamentos de Desarrollo Web](#fundamentos-de-desarrollo-web-y-móvil)
 * [Fundamentos de Programación](#fundamentos-de-programación)
 * [Framework´s Web](#framework-web)
 * [JavaScript](#javascript)
@@ -180,7 +180,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/ismtabo/cpp_tutorial/details)
   * [Lectura](https://ismtabo.gitbooks.io/cpp_tutorial/content/)
   
-### *Go - Aprendiendo un nuevo lenguaje* 
+### *Go* 
 
 * Go - Aprendiendo un lenguaje de programación de código abierto que facilita y simplifica la construcción de software eficiente y fiable.
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/go-es/details)
