@@ -2,7 +2,7 @@
 
 <div><img align="right" src="https://raw.githubusercontent.com/DpdC/gitbook-biblioteca-en-espanol/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
 <br>
-Repositorio de libros (36) que merecen la pena; encontrados en GitBook y en Español. 
+Repositorio de libros (37) que merecen la pena; encontrados en GitBook y en Español. 
 <br>
 <br>
 <br>
@@ -145,6 +145,9 @@ ___
   * [Lectura](https://jorger.gitbooks.io/javascript-basico/content/)
   
 ### *Libros sobre librerías basadas en Javascript.*
+
+* Redux es un contenedor predecible del estado de aplicaciones JavaScript. 
+  * [Introducción & Lectura](http://es.redux.js.org/)
 
 * Información adquirida de diferentes fuentes (libros, tutoriales, experiencia personal) sobre Angular 2.
   * [Introducción & Descarga](https://www.gitbook.com/book/rldona/angular-2-book/details)
