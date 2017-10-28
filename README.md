@@ -2,8 +2,7 @@
 
 <div><img align="right" src="https://raw.githubusercontent.com/DpdC/gitbook-biblioteca-en-espanol/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
 <br>
-Repositorio de libros (37) que merecen la pena; encontrados en GitBook y en Español. 
-<br>
+Repositorio de libros (37) sobre programación o contenidos relacionados, y que considero están lo suficiente elaborados como para tenerlos en cuenta; los cuales han sido encontrados en GitBook. 
 <br>
 <br>
 <br>
@@ -27,25 +26,27 @@ Repositorio de libros (37) que merecen la pena; encontrados en GitBook y en Espa
 ___
 
 ## Bases de Datos
+
 ### *No Relacionales* 
 
-* Comenzando con MongoDB
-  * [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
-  * [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
+- Comenzando con MongoDB.
+  - [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
+  - [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
 
 ## Entornos de Desarrollo
-### *Gestión de Equipos*
-* Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes
-  * [Introducción & Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
-  * [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
 
-* Introducción a GIT
-  * [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
-  * [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
+### *Gestión de Equipos*
+- Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes.
+  - [Introducción& Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
+  - [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
+
+- Introducción a GIT.
+  - [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
+  - [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
 
 ### *Prototipado Web*
 
-* Prototipado de Aplicaciones Web (mean.js)
+* Prototipado de Aplicaciones Web (mean.js).
   * [Introducción & Descarga](https://www.gitbook.com/book/newrol/mean-webproto/details)
   * [Lectura](https://meanjsbook.danihernandez.me/)
   
@@ -56,16 +57,16 @@ ___
 ## Fundamentos de Desarrollo Web y Móvil
 ### *Android*
 
-* Introducción al desarrollo de aplicaciones Android
+* Introducción al desarrollo de aplicaciones Android.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/introduccion-a-android/details)
   * [Lectura](https://ajgallego.gitbooks.io/introduccion-a-android/content/)
 
 ### *Desarrollo de Aplicaciones Web*
 
-* Desarrollo de Aplicaciones Web - **Guía Completa**
+* Desarrollo de Aplicaciones Web - **Guía Completa**.
   * [Introducción & Descarga](https://www.gitbook.com/book/juanda/webapps/details)
   * [Lectura](https://juanda.gitbooks.io/webapps/content/)
-* Integración con API´s de terceros
+* Integración con API´s de terceros.
   * [Introducción & Descarga](https://www.gitbook.com/book/dviejo/programacion-web-integracion-con-apis/details)
   * [Lectura](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/)
   
@@ -74,7 +75,7 @@ ___
 * PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/phonegap/details)
   * [Lectura](https://ajgallego.gitbooks.io/phonegap/content/) 
-* Programación Hipermedia para Dispositivos Móviles
+* Programación Hipermedia para Dispositivos Móviles.
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/programacion-hipermedia-para-dispositivos-moviles/details)
   * [Lectura](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content/)
 * Tecnologías para el desarrollo de aplicacioens móviles.
@@ -83,13 +84,13 @@ ___
   
 ### *iOS*
 
-* Interfaz de usuario básica en iOS - Universidad de Alicante
+* Interfaz de usuario básica en iOS - Universidad de Alicante.
   * [Introducción & Descarga](https://mastermoviles.gitbooks.io/interfaz-de-usuario-basico-en-ios/content/)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details)
 
 ### *Técnicas de Desarrollo*
 
-* Buenas Prácticas Front End
+* Buenas Prácticas Front End.
   * [Introducción & Descarga](https://www.gitbook.com/book/redmint/buenas-practicas-front-end/details)
   * [Lectura](https://redmint.gitbooks.io/buenas-practicas-front-end/content/)
   
@@ -124,13 +125,13 @@ ___
   * [Lectura](https://ajgallego.gitbooks.io/laravel-5/content/)
 
 ### *Sencha 2*
-* Sencha Touch 2.0
+* Sencha Touch 2.0.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/sencha-touch-2/details)
   * [Lectura](https://ajgallego.gitbooks.io/sencha-touch-2/content/)
 
 ### *Yii2*
 
-* Introducción YII2 - *Framework PHP*
+* Introducción YII2 - *Framework PHP*.
   * [Introducción & Descarga](https://www.gitbook.com/book/delc82/yii2littlehandbook/details)
   * [Lectura](https://delc82.gitbooks.io/yii2littlehandbook/content/index.html)
 
@@ -140,7 +141,7 @@ ___
 * Eloquent Javascript - Introducción Moderna a la Programación.
   * [Introducción & Descarga](https://www.gitbook.com/book/faustinoloeza/eloquent-javascript/details)
   * [Lectura](https://faustinoloeza.gitbooks.io/eloquent-javascript/content/)
-* Javascript Básico a Nivel Cliente (Navegador)
+* Javascript Básico a Nivel Cliente (Navegador).
   * [Introducción & Descarga](https://www.gitbook.com/book/jorger/javascript-basico/details)
   * [Lectura](https://jorger.gitbooks.io/javascript-basico/content/)
   
@@ -161,7 +162,7 @@ ___
 
 ## Metodologías AGILE
 ### *Experiencias Ágiles*
-* DevOps - Marco de Trabajo
+* DevOps - Marco de Trabajo.
   * [Introducción & Descarga](https://www.gitbook.com/book/nelsonmoreno/devops/details)
   * [Lectura](https://nelsonmoreno.gitbooks.io/devops/content/)
 * Ensayos Ágiles - Agile Open Camp.
@@ -170,7 +171,7 @@ ___
 * Herramientas Ágiles - Agile Open Camp.
   * [Introducción & Descarga](https://www.gitbook.com/book/nicopaez/libroagileaoc2016/details)
   * [Lectura](https://nicopaez.gitbooks.io/libroagileaoc2016/content/)
-* Tutorial de Automatización de Pruebas
+* Tutorial de Automatización de Pruebas.
   * [Introducción & Descarga](https://www.gitbook.com/book/nicopaez/test-automation/details)
   * [Lectura](https://nicopaez.gitbooks.io/test-automation/content/)
 * Uso de métodos ágiles en casos reales relatadas por practicantes de la comunidad ágil de Argentina.
@@ -179,7 +180,7 @@ ___
 
 ## Otros Lenguajes de Programación
 ### *C++*
-* Introducción a C++
+* Introducción a C++.
   * [Introducción & Descarga](https://www.gitbook.com/book/ismtabo/cpp_tutorial/details)
   * [Lectura](https://ismtabo.gitbooks.io/cpp_tutorial/content/)
   
@@ -188,13 +189,13 @@ ___
 * Go - Aprendiendo un lenguaje de programación de código abierto que facilita y simplifica la construcción de software eficiente y fiable.
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/go-es/details)
   * [Lectura](https://nachopacheco.gitbooks.io/go-es/content/)
-* Go - Construyendo Aplicaciones Web
+* Go - Construyendo Aplicaciones Web.
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/cawg/details)
   * [Lectura](https://nachopacheco.gitbooks.io/cawg/content/)
 
 ### *JAVA*
 
-* Introducción a Java y Android Estudio - Universidad de Alicante
+* Introducción a Java y Android Estudio - Universidad de Alicante.
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
 
@@ -211,7 +212,7 @@ ___
 
 ## Software Libre
 
-* Migración de las Administraciones Públicas a los Sistemas Libres
+* Migración de las Administraciones Públicas a los Sistemas Libres.
   * [Introducción & Descarga](https://www.gitbook.com/book/ccarabobolibre/acm/details)
   * [Lectura](https://ccarabobolibre.gitbooks.io/acm/content/)
 
