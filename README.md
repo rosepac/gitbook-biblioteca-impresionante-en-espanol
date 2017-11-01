@@ -29,20 +29,23 @@ ___
 
 ### *No Relacionales* 
 
-- Comenzando con MongoDB.
-  - [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
-  - [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
+* Comenzando con MongoDB
+  * [Introducción & Descarga](https://www.gitbook.com/book/burgersbacon/mongo-db/details)
+  * [Lectura](https://burgersbacon.gitbooks.io/mongo-db/content/)
+  
+* MongoDB en español
+  * [Lectura](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content)
 
 ## Entornos de Desarrollo
 
 ### *Gestión de Equipos*
-- Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes.
-  - [Introducción& Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
-  - [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
+* Desarrollo de Software en Equipo - Curso Básico Profesional de la Universidad de los Andes.
+  * [Introducción& Descarga](https://www.gitbook.com/book/csw-uniandes/isis2603-desarrollo-de-software-en-equipos/details)
+  * [Lectura](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content/)
 
-- Introducción a GIT.
-  - [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
-  - [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
+* Introducción a GIT.
+  * [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
+  * [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
 
 ### *Prototipado Web*
 
@@ -199,6 +202,16 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
 
+### *Ruby*
+
+* Aprende a programar con Ruby
+  * [Lectura](http://rubysur.org/aprende.a.programar)
+  
+### *Ruby on Rails*
+
+* Introducción a Rails 
+  * [Lectura](http://rubysur.org/introduccion.a.rails/)
+  
 ## Software Empresarial
 
 ### *ERP - Planificación de Recursos Empresariales*
@@ -217,33 +230,6 @@ ___
   * [Lectura](https://ccarabobolibre.gitbooks.io/acm/content/)
 
   
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
 ___
 
 ## Licencia
