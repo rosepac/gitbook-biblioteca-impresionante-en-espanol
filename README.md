@@ -47,6 +47,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
   * [Lectura](https://carloscarcamo.gitbooks.io/git-intro/content/)
 
+
 ### *Prototipado Web*
 
 * Prototipado de Aplicaciones Web (mean.js).
@@ -56,7 +57,8 @@ ___
 * Programación Web en Entorno Cliente (JS, Ajax & jQuery).
   * [Introducción & Descarga](https://www.gitbook.com/book/josh1982/programacion-web-en-cliente/details)
   * [Lectura](https://josh1982.gitbooks.io/programacion-web-en-cliente/content/)
-  
+
+
 ## Fundamentos de Desarrollo Web y Móvil
 ### *Android*
 
@@ -72,7 +74,8 @@ ___
 * Integración con API´s de terceros.
   * [Introducción & Descarga](https://www.gitbook.com/book/dviejo/programacion-web-integracion-con-apis/details)
   * [Lectura](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/)
-  
+
+
 ### *Desarrollo de Aplicaciones Móviles*
 
 * PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa.
@@ -84,12 +87,14 @@ ___
 * Tecnologías para el desarrollo de aplicacioens móviles.
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/tecnologias2/details)
   * [Lectura](https://mastermoviles.gitbooks.io/tecnologias2/content/)
-  
+
+
 ### *iOS*
 
 * Interfaz de usuario básica en iOS - Universidad de Alicante.
   * [Introducción & Descarga](https://mastermoviles.gitbooks.io/interfaz-de-usuario-basico-en-ios/content/)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details)
+
 
 ### *Técnicas de Desarrollo*
 
@@ -97,7 +102,7 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/redmint/buenas-practicas-front-end/details)
   * [Lectura](https://redmint.gitbooks.io/buenas-practicas-front-end/content/)
   
-  
+
 ## Fundamentos de Programación
 ### *Bases de Programación* 
 
@@ -107,7 +112,8 @@ ___
 * Principios Básicos Fundamentales de la POO (programación orientada a objetos).
   * [Introducción & Descarga](https://www.gitbook.com/book/graion/fundamentos-de-programacion-orientada-objetos/details)
   * [Lectura](https://graion.gitbooks.io/fundamentos-de-programacion-orientada-objetos/content/)
-  
+
+
 ## Framework Web 
 ### *Bootstrap 3*
 
@@ -115,28 +121,33 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/bootstrap-3/details)
   * [Lectura](https://ajgallego.gitbooks.io/bootstrap-3/content/)
 
+
 ### *Ionic*
 
 * Manual de Introducción al *framework* Ionic.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/ionic/details)
   * [Lectura](https://ajgallego.gitbooks.io/ionic/content/)
-  
+
+
 ### *Laravel 5*
 
 * Extensa introducción al *framework* de desarrollo Web Laravel.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/laravel-5/details)
   * [Lectura](https://ajgallego.gitbooks.io/laravel-5/content/)
 
+
 ### *Sencha 2*
 * Sencha Touch 2.0.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/sencha-touch-2/details)
   * [Lectura](https://ajgallego.gitbooks.io/sencha-touch-2/content/)
+
 
 ### *Yii2*
 
 * Introducción YII2 - *Framework PHP*.
   * [Introducción & Descarga](https://www.gitbook.com/book/delc82/yii2littlehandbook/details)
   * [Lectura](https://delc82.gitbooks.io/yii2littlehandbook/content/index.html)
+
 
 ## Javascript
 ### *Libros de Manuales con Derechos Creative Commons u similares.*
@@ -147,7 +158,8 @@ ___
 * Javascript Básico a Nivel Cliente (Navegador).
   * [Introducción & Descarga](https://www.gitbook.com/book/jorger/javascript-basico/details)
   * [Lectura](https://jorger.gitbooks.io/javascript-basico/content/)
-  
+
+
 ### *Libros sobre librerías basadas en Javascript.*
 
 * Redux es un contenedor predecible del estado de aplicaciones JavaScript. 
@@ -156,12 +168,14 @@ ___
 * Información adquirida de diferentes fuentes (libros, tutoriales, experiencia personal) sobre Angular 2.
   * [Introducción & Descarga](https://www.gitbook.com/book/rldona/angular-2-book/details)
   * [Lectura](https://rldona.gitbooks.io/angular-2-book/content/)
-  
+
+
 ### *TypeScript*
 
 * Introducción a Typescript.
   * [Introducción & Descarga](https://www.gitbook.com/book/khru/typescript/details)
   * [Lectura](https://khru.gitbooks.io/typescript/content/)
+
 
 ## Metodologías AGILE
 ### *Experiencias Ágiles*
@@ -181,12 +195,14 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/nicopaez/libroagileaoc2015/details)
   * [Lectura](https://nicopaez.gitbooks.io/libroagileaoc2015/content/)
 
+
 ## Otros Lenguajes de Programación
 ### *C++*
 * Introducción a C++.
   * [Introducción & Descarga](https://www.gitbook.com/book/ismtabo/cpp_tutorial/details)
   * [Lectura](https://ismtabo.gitbooks.io/cpp_tutorial/content/)
-  
+
+
 ### *Go* 
 
 * Go - Aprendiendo un lenguaje de programación de código abierto que facilita y simplifica la construcción de software eficiente y fiable.
@@ -196,22 +212,26 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/nachopacheco/cawg/details)
   * [Lectura](https://nachopacheco.gitbooks.io/cawg/content/)
 
+
 ### *JAVA*
 
 * Introducción a Java y Android Estudio - Universidad de Alicante.
   * [Introducción & Descarga](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
   * [Lectura](https://www.gitbook.com/book/mastermoviles/introduccion-a-java-y-eclipse/details)
 
+
 ### *Ruby*
 
 * Aprende a programar con Ruby
   * [Lectura](http://rubysur.org/aprende.a.programar)
-  
+
+
 ### *Ruby on Rails*
 
 * Introducción a Rails 
   * [Lectura](http://rubysur.org/introduccion.a.rails/)
-  
+
+
 ## Software Empresarial
 
 ### *ERP - Planificación de Recursos Empresariales*
@@ -223,18 +243,16 @@ ___
   * [Introducción & Descarga](https://www.gitbook.com/book/fadeldamenschreiner/odoo-libro-tecnico/details)
   * [Lectura](https://fadeldamenschreiner.gitbooks.io/odoo-libro-tecnico/content/)
 
+
 ## Software Libre
 
 * Migración de las Administraciones Públicas a los Sistemas Libres.
   * [Introducción & Descarga](https://www.gitbook.com/book/ccarabobolibre/acm/details)
   * [Lectura](https://ccarabobolibre.gitbooks.io/acm/content/)
 
-  
-___
 
-## Licencia
+---
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+### Licencia
 
-Todos los contenidos poseen la licencia específica dentro de cada uno de los enlaces determinados.
-En la medida que lo permita la ley [DpdC](http://pabloalvarezcorredera.com) ha renunciado a todos los derechos de autor y derechos afines a estos trabajo.
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://www.pabloalvarezcorredera.com) sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
