@@ -20,6 +20,7 @@ Repositorio de libros (37) sobre programación o contenidos relacionados, y que 
 * [JavaScript](#javascript)
 * [Metodologías Ágiles](#metodologías-agile)
 * [Otros Lenguajes de Programación](#otros-lenguajes-de-programación)
+* [Sistemas de Gestión de Contenidos](#sistemas--gestión--contenidos)
 * [Software Empresarial](#software-empresarial)
 * [Software Libre](#software-libre)
 
@@ -117,6 +118,9 @@ ___
 ## Framework Web 
 ### *Bootstrap 3*
 
+* Curso de HTML5 desde cero.
+  * [Introducción & Descarga](https://www.gitbook.com/book/hhkaos/cursohtml5desdecero/details)
+  * [Lectura](https://libro.cursohtml5desdecero.com/)
 * Manual de Introducción al **framework** Bootstrap 3.
   * [Introducción & Descarga](https://www.gitbook.com/book/ajgallego/bootstrap-3/details)
   * [Lectura](https://ajgallego.gitbooks.io/bootstrap-3/content/)
@@ -162,12 +166,14 @@ ___
 
 ### *Libros sobre librerías basadas en Javascript.*
 
-* Redux es un contenedor predecible del estado de aplicaciones JavaScript. 
-  * [Introducción & Lectura](http://es.redux.js.org/)
-
-* Información adquirida de diferentes fuentes (libros, tutoriales, experiencia personal) sobre Angular 2.
+* Angular 2. Información adquirida de diferentes fuentes (libros, tutoriales, experiencia personal).
   * [Introducción & Descarga](https://www.gitbook.com/book/rldona/angular-2-book/details)
   * [Lectura](https://rldona.gitbooks.io/angular-2-book/content/)
+* Vue.js, desarrollar aplicaciones.
+  * [Introducción & Descarga](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)
+  * [Lectura](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/)
+* Redux es un contenedor predecible del estado de aplicaciones JavaScript. 
+  * [Introducción & Lectura](http://es.redux.js.org/)
 
 
 ### *TypeScript*
@@ -230,6 +236,15 @@ ___
 
 * Introducción a Rails 
   * [Lectura](http://rubysur.org/introduccion.a.rails/)
+
+
+## Sistemas de Gestión de Contenidos
+
+### WordPress
+
+* WordPress Plugins.
+  * [Introducción & Descarga](https://www.gitbook.com/book/danicotillas/wordpress-plugins/details)
+  * [Lectura](https://danicotillas.gitbooks.io/wordpress-plugins/content/)
 
 
 ## Software Empresarial
