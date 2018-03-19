@@ -1,7 +1,6 @@
-# Gitbook - Biblioteca de Libros en Español  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Gitbook - Biblioteca de Libros en Español
 
-<div><img align="right" src="https://raw.githubusercontent.com/DpdC/gitbook-biblioteca-en-espanol/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
-<br>
+<!-- <div><img align="right" src="https://raw.githubusercontent.com/DpdC/gitbook-biblioteca-en-espanol/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div> -->
 Repositorio de libros (37) sobre programación o contenidos relacionados, y que considero están lo suficiente elaborados como para tenerlos en cuenta; los cuales han sido encontrados en GitBook. 
 <br>
 <br>
