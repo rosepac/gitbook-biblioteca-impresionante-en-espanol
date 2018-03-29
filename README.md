@@ -2,9 +2,7 @@
 
 <!-- <div><img align="right" src="https://raw.githubusercontent.com/DpdC/gitbook-biblioteca-en-espanol/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div> -->
 Repositorio de libros (37) sobre programación o contenidos relacionados, y que considero están lo suficiente elaborados como para tenerlos en cuenta; los cuales han sido encontrados en GitBook. 
-<br>
-<br>
-<br>
+
 
 -----
 
@@ -155,7 +153,7 @@ ___
 ## Javascript
 ### *Libros de Manuales con Derechos Creative Commons u similares.*
 
-* Eloquent Javascript - Introducción Moderna a la Programación.
+* Eloquent Javascript - Introducción Moderna a la Programación *by* @faustinoloeza
   * [Introducción & Descarga](https://www.gitbook.com/book/faustinoloeza/eloquent-javascript/details)
   * [Lectura](https://faustinoloeza.gitbooks.io/eloquent-javascript/content/)
 * Javascript Básico a Nivel Cliente (Navegador).
@@ -168,7 +166,7 @@ ___
 * Angular 2. Información adquirida de diferentes fuentes (libros, tutoriales, experiencia personal).
   * [Introducción & Descarga](https://www.gitbook.com/book/rldona/angular-2-book/details)
   * [Lectura](https://rldona.gitbooks.io/angular-2-book/content/)
-* Vue.js, desarrollar aplicaciones.
+* Vue.js, desarrollar aplicaciones. *by* @jdonsan
   * [Introducción & Descarga](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)
   * [Lectura](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/)
 * Redux es un contenedor predecible del estado de aplicaciones JavaScript. 
